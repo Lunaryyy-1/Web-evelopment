@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="240" viewBox="0 0 480 240" role="img" aria-labelledby="title desc">
+  <title id="title">Помощь службы поддержки</title>
+  <desc id="desc">Иллюстрация оператора поддержки за компьютером</desc>
+  <rect width="480" height="240" rx="18" fill="#e8f3ff"/>
+  <rect x="70" y="45" width="150" height="105" rx="8" fill="#ffffff" stroke="#2463a6" stroke-width="6"/>
+  <rect x="125" y="150" width="40" height="18" fill="#2463a6"/>
+  <rect x="105" y="168" width="80" height="8" rx="4" fill="#2463a6"/>
+  <circle cx="320" cy="82" r="35" fill="#f2c6a0"/>
+  <path d="M284 78a36 36 0 0 1 72 0v10h-9V78a27 27 0 0 0-54 0v10h-9z" fill="#24476b"/>
+  <path d="M265 190c5-45 27-68 55-68s50 23 55 68" fill="#4b8fce"/>
+  <path d="M285 92c8 7 23 7 31 0" fill="none" stroke="#7a4737" stroke-width="3" stroke-linecap="round"/>
+  <path d="M356 90h18v35h-18" fill="none" stroke="#2463a6" stroke-width="6"/>
+  <path d="M374 125c0 15-12 25-27 25h-8" fill="none" stroke="#2463a6" stroke-width="5"/>
+  <circle cx="335" cy="150" r="5" fill="#2463a6"/>
+</svg>
